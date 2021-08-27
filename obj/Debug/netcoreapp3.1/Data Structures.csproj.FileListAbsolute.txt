@@ -1,0 +1,13 @@
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.exe
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.deps.json
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.runtimeconfig.json
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.runtimeconfig.dev.json
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.dll
+E:\Data Structure Assignment\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.pdb
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.csproj.AssemblyReference.cache
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.AssemblyInfoInputs.cache
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.AssemblyInfo.cs
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.csproj.CoreCompileInputs.cache
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.dll
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.pdb
+E:\Data Structure Assignment\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.genruntimeconfig.cache
